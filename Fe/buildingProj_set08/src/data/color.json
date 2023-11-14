@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "yellow",
+    "image": "https://img.freepik.com/free-photo/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-product-presentation_1258-56105.jpg"
+  },
+  {
+    "id": "2",
+    "name": "red",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Red_Color.jpg/800px-Red_Color.jpg"
+  },
+  {
+    "id": "3",
+    "name": "green",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Libya_%281977%E2%80%932011%29.svg/300px-Flag_of_Libya_%281977%E2%80%932011%29.svg.png"
+  },
+  {
+    "id": "4",
+    "name": "blue",
+    "image": "https://cdn11.bigcommerce.com/s-3uewkq06zr/images/stencil/1280x1280/products/230/406/blue_b__05623.1492487362.png?c=2"
+  }
+]
